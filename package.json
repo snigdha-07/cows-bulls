@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "cowbull",
+  "version": "1.0.0",
+  "main": "page2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snigdha-07/cows-bulls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snigdha-07/cows-bulls/issues"
+  },
+  "homepage": "https://github.com/snigdha-07/cows-bulls#readme",
+  "description": ""
+}
